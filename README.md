@@ -6,4 +6,8 @@ This project performs a basic climate analysis and data exploration of a climate
 - Pandas
 - Matplotlib
 - Jupyter Notebook
+## Resources
+hawaii.sqlite
+hawaii_measurements
+hawaii_stations
 
